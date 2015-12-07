@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_text_spotify">SPOTIFY STREAMER</string>
+    <string name="btn_text_scores">SCORES APP</string>
+    <string name="btn_text_library">LIBRARY APP</string>
+    <string name="btn_text_build">BUILD IT BIGGER</string>
+    <string name="btn_text_xyz">XYZ READER</string>
+    <string name="btn_text_capstome">CAPSTONE: MY OWN APP</string>
+</resources>
